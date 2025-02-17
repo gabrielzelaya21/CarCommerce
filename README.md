@@ -1,2 +1,2 @@
 # CarCommerce
-An application designed for a car-dealership managing system, as a frontend vite+react is used and for the backend java spring boot for a RESTful api
+This is a car dealership managment system application which frontend is built with Vite+React, while the backend utilizes Java Spring Boot to provide a RESTful API.
